@@ -215,6 +215,8 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - ssh_key
+  - ssh_key.pub
 
 jekyll-archives:
   enabled: [categories, tags]
